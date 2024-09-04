@@ -14,7 +14,7 @@
 
 - 📘 [**Microsoft Learn Module**](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/?wt.mc_id=studentamb_336682)
 - 📑 [**Presentation**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/presentation/?wt.mc_id=studentamb_336682)
-- 💻 [**Main Code**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/code/?wt.mc_id=studentamb_336682)
+- 💻 [**Main Code**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/code-mod-for-windows/?wt.mc_id=studentamb_336682)
 - 📬 [**Contact Information**](https://gilberto-guzman.github.io/?wt.mc_id=studentamb_336682)
 
 # 👁️  Introducción a Computer Vision con TensorFlow 🤖
@@ -25,5 +25,5 @@
 
 - 📘 [**Modulo de Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/?wt.mc_id=studentamb_336682)
 - 📑 [**Presentación**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/presentation/?wt.mc_id=studentamb_336682)
-- 💻 [**Código Principal**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/code/?wt.mc_id=studentamb_336682)
+- 💻 [**Código Principal**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/code-mod-for-windows/?wt.mc_id=studentamb_336682)
 - 📬 [**Información de contacto**](https://gilberto-guzman.github.io/?wt.mc_id=studentamb_336682)
