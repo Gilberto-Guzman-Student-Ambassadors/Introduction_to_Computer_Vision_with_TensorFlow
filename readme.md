@@ -1,29 +1,29 @@
 ### #MSFTStudentAmbassadors
 
-# [**🎉 Register Here! - Registrate Aqui 🎉**](https://forms.office.com/Pages/ResponsePage.aspx?id=oBzDhDusrk6tEVGdgCM-b3OCv62PznhHm-dSCaLwRlhUNllFT0gxVk1ISTJVUDRDRFlUMUNGUDk3MS4u&wt.mc_id=studentamb_336682)
+# [**🎉 Register Here! - Registrate Aqui 🎉**](https://forms.office.com/Pages/ResponsePage.aspx?id=oBzDhDusrk6tEVGdgCM-b3OCv62PznhHm-dSCaLwRlhUNlIwWE1VMUxONzNNNEQ3WVdaQjU4ODg3WS4u&wt.mc_id=studentamb_336682)
 
-**There is a chance you could win a LinkedIn Premium Voucher (6 months) and get a Certificate of Completion!**</br>
-**Existe la posibilidad de que puedas ganar un Voucher de LinkedIn Premium (6 meses) y obtener una constancia de Finalización.**
+**There is a chance you could win a Linkedin Premium Voucher (6 months) and get a Certificate of Completion!**</br>
+**Existe la posibilidad de que puedas ganar un Voucher de Linkedin Premium (6 meses) y obtener una constancia de Finalización.**
 
 
-# 🚀 Get Started with React
+# 👁️ Introduction to computer vision with TensorFlow 🤖
 
-**In this event, you will learn the basics of React and JSX. We will see how to install React and create a project, create our first component, apply styles, and display data dynamically.**
+**In this event, you'll explore the fundamentals of Computer Vision using TensorFlow and Keras. We'll dive into working with image data, training dense and convolutional neural networks, and finally, we'll discover the power of transfer learning.**
 
-## 📚 Resources - Recursos
+## 📚 Resources
 
 - 📘 [**Microsoft Learn Module**](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/?wt.mc_id=studentamb_336682)
-- 📑 [**Presentation**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Get_Started_with_React/blob/main/presentation/slides.pptx?wt.mc_id=studentamb_336682)
-- 💻 [**Main Code**](https://github.com/Gilberto-Guzman-Student-Ambassadors/mslearn-react-mod?wt.mc_id=studentamb_336682)
+- 📑 [**Presentation**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/presentation/?wt.mc_id=studentamb_336682)
+- 💻 [**Main Code**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/code/?wt.mc_id=studentamb_336682)
 - 📬 [**Contact Information**](https://gilberto-guzman.github.io/?wt.mc_id=studentamb_336682)
 
-# 🚀 Primeros pasos con React
+# 👁️  Introducción a Computer Vision con TensorFlow 🤖
 
-**En este evento, aprenderás los conceptos básicos de React y JSX. Veremos cómo instalar React y crear un proyecto, crear nuestro primer componente, aplicar estilos y mostrar datos dinámicamente.**
+**En este evento, explorarás los fundamentos de Computer Vision utilizando TensorFlow y Keras. Nos sumergiremos en el trabajo con datos de imágenes, entrenaremos redes neuronales densas y convolucionales, y finalmente, descubriremos el poder del aprendizaje por transferencia.**
 
 ## 📚 Recursos
 
 - 📘 [**Modulo de Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/?wt.mc_id=studentamb_336682)
-- 📑 [**Presentación**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Get_Started_with_React/blob/main/presentation/slides.pptx?wt.mc_id=studentamb_336682)
-- 💻 [**Código Principal**](https://github.com/Gilberto-Guzman-Student-Ambassadors/mslearn-react-mod?wt.mc_id=studentamb_336682)
+- 📑 [**Presentación**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/presentation/?wt.mc_id=studentamb_336682)
+- 💻 [**Código Principal**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/code/?wt.mc_id=studentamb_336682)
 - 📬 [**Información de contacto**](https://gilberto-guzman.github.io/?wt.mc_id=studentamb_336682)
