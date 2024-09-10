@@ -6,7 +6,7 @@
 **Existe la posibilidad de que puedas ganar un Voucher de Linkedin Premium (6 meses) y obtener una constancia de Finalización.**
 
 
-# 👁️ Introduction to computer vision with TensorFlow 🤖
+# 👁️ Introduction to Computer Vision with TensorFlow 🤖
 
 **In this event, you'll explore the fundamentals of Computer Vision using TensorFlow and Keras. We'll dive into working with image data, training dense and convolutional neural networks, and finally, we'll discover the power of transfer learning.**
 
