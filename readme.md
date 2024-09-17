@@ -6,16 +6,20 @@
 **Existe la posibilidad de que puedas ganar un Voucher de Linkedin Premium (6 meses) y obtener una constancia de Finalización.**
 
 
-# 👁️ Introduction to computer vision with TensorFlow 🤖
+# ☁️ [**Get Microsoft Azure Free - Obtener Microsoft Azure Gratis**](https://azure.microsoft.com/es-es/free/students?wt.mc_id=studentamb_336682)
+
+</br>
+
+# 👁️ Introduction to Computer Vision with TensorFlow 🤖
 
 **In this event, you'll explore the fundamentals of Computer Vision using TensorFlow and Keras. We'll dive into working with image data, training dense and convolutional neural networks, and finally, we'll discover the power of transfer learning.**
 
 ## 📚 Resources
 
-- 📘 [**Microsoft Learn Module**](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/?wt.mc_id=studentamb_336682)
-- 📑 [**Presentation**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/presentation/?wt.mc_id=studentamb_336682)
-- 💻 [**Main Code**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/code-mod-for-windows/?wt.mc_id=studentamb_336682)
-- 📬 [**Contact Information**](https://gilberto-guzman.github.io/?wt.mc_id=studentamb_336682)
+- 📘 [**Microsoft Learn Module**](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow?wt.mc_id=studentamb_336682)
+- 📑 [**Presentation**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/presentation?wt.mc_id=studentamb_336682)
+- 💻 [**Main Code**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/code-mod-for-windows?wt.mc_id=studentamb_336682)
+- 📬 [**Contact Information**](https://gilberto-guzman.github.io?wt.mc_id=studentamb_336682)
 
 # 👁️  Introducción a Computer Vision con TensorFlow 🤖
 
@@ -23,7 +27,7 @@
 
 ## 📚 Recursos
 
-- 📘 [**Modulo de Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/?wt.mc_id=studentamb_336682)
-- 📑 [**Presentación**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/presentation/?wt.mc_id=studentamb_336682)
-- 💻 [**Código Principal**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/code-mod-for-windows/?wt.mc_id=studentamb_336682)
-- 📬 [**Información de contacto**](https://gilberto-guzman.github.io/?wt.mc_id=studentamb_336682)
+- 📘 [**Modulo de Microsoft Learn**](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow?wt.mc_id=studentamb_336682)
+- 📑 [**Presentación**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/presentation?wt.mc_id=studentamb_336682)
+- 💻 [**Código Principal**](https://github.com/Gilberto-Guzman-Student-Ambassadors/Introduction_to_Computer_Vision_with_TensorFlow/tree/main/code-mod-for-windows?wt.mc_id=studentamb_336682)
+- 📬 [**Información de contacto**](https://gilberto-guzman.github.io?wt.mc_id=studentamb_336682)
